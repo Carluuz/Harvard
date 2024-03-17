@@ -1,0 +1,7 @@
+       requests  =>  pip install requests
+            bs4  =>  pip install beautifulsoup4
+   googlesearch  =>  pip install googlesearch-python
+        gspread  =>  pip install gspread
+googleapiclient  =>  pip install google-api-python-client
+         Pillow  =>  pip install Pillow
+         pytest  =>  pip install pytest
